@@ -1,0 +1,15 @@
+D:\csharpintermed\SpaceMissionInventoryProject\bin\Debug\net9.0\SpaceMissionInventoryProject.exe
+D:\csharpintermed\SpaceMissionInventoryProject\bin\Debug\net9.0\SpaceMissionInventoryProject.deps.json
+D:\csharpintermed\SpaceMissionInventoryProject\bin\Debug\net9.0\SpaceMissionInventoryProject.runtimeconfig.json
+D:\csharpintermed\SpaceMissionInventoryProject\bin\Debug\net9.0\SpaceMissionInventoryProject.dll
+D:\csharpintermed\SpaceMissionInventoryProject\bin\Debug\net9.0\SpaceMissionInventoryProject.pdb
+D:\csharpintermed\SpaceMissionInventoryProject\obj\Debug\net9.0\SpaceMissionInventoryProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpintermed\SpaceMissionInventoryProject\obj\Debug\net9.0\SpaceMissionInventoryProject.AssemblyInfoInputs.cache
+D:\csharpintermed\SpaceMissionInventoryProject\obj\Debug\net9.0\SpaceMissionInventoryProject.AssemblyInfo.cs
+D:\csharpintermed\SpaceMissionInventoryProject\obj\Debug\net9.0\SpaceMissionInventoryProject.csproj.CoreCompileInputs.cache
+D:\csharpintermed\SpaceMissionInventoryProject\obj\Debug\net9.0\SpaceMissionInventoryProject.sourcelink.json
+D:\csharpintermed\SpaceMissionInventoryProject\obj\Debug\net9.0\SpaceMissionInventoryProject.dll
+D:\csharpintermed\SpaceMissionInventoryProject\obj\Debug\net9.0\refint\SpaceMissionInventoryProject.dll
+D:\csharpintermed\SpaceMissionInventoryProject\obj\Debug\net9.0\SpaceMissionInventoryProject.pdb
+D:\csharpintermed\SpaceMissionInventoryProject\obj\Debug\net9.0\SpaceMissionInventoryProject.genruntimeconfig.cache
+D:\csharpintermed\SpaceMissionInventoryProject\obj\Debug\net9.0\ref\SpaceMissionInventoryProject.dll
