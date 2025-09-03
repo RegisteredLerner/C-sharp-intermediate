@@ -1,0 +1,15 @@
+D:\csharpintermed\TrueFalseProject\bin\Debug\net9.0\TrueFalseProject.exe
+D:\csharpintermed\TrueFalseProject\bin\Debug\net9.0\TrueFalseProject.deps.json
+D:\csharpintermed\TrueFalseProject\bin\Debug\net9.0\TrueFalseProject.runtimeconfig.json
+D:\csharpintermed\TrueFalseProject\bin\Debug\net9.0\TrueFalseProject.dll
+D:\csharpintermed\TrueFalseProject\bin\Debug\net9.0\TrueFalseProject.pdb
+D:\csharpintermed\TrueFalseProject\obj\Debug\net9.0\TrueFalseProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpintermed\TrueFalseProject\obj\Debug\net9.0\TrueFalseProject.AssemblyInfoInputs.cache
+D:\csharpintermed\TrueFalseProject\obj\Debug\net9.0\TrueFalseProject.AssemblyInfo.cs
+D:\csharpintermed\TrueFalseProject\obj\Debug\net9.0\TrueFalseProject.csproj.CoreCompileInputs.cache
+D:\csharpintermed\TrueFalseProject\obj\Debug\net9.0\TrueFalseProject.sourcelink.json
+D:\csharpintermed\TrueFalseProject\obj\Debug\net9.0\TrueFalseProject.dll
+D:\csharpintermed\TrueFalseProject\obj\Debug\net9.0\refint\TrueFalseProject.dll
+D:\csharpintermed\TrueFalseProject\obj\Debug\net9.0\TrueFalseProject.pdb
+D:\csharpintermed\TrueFalseProject\obj\Debug\net9.0\TrueFalseProject.genruntimeconfig.cache
+D:\csharpintermed\TrueFalseProject\obj\Debug\net9.0\ref\TrueFalseProject.dll
