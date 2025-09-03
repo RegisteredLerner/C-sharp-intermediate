@@ -82,7 +82,7 @@ namespace TrueOrFalse
             }
             else
             {
-                Console.WriteLine("You got nothing amazing");
+                Console.WriteLine("You got nothing you are awesome");
             }
             
 
