@@ -1,0 +1,15 @@
+D:\csharpintermed\TheObjectofYourAffectionProject\bin\Debug\net9.0\TheObjectofYourAffectionProject.exe
+D:\csharpintermed\TheObjectofYourAffectionProject\bin\Debug\net9.0\TheObjectofYourAffectionProject.deps.json
+D:\csharpintermed\TheObjectofYourAffectionProject\bin\Debug\net9.0\TheObjectofYourAffectionProject.runtimeconfig.json
+D:\csharpintermed\TheObjectofYourAffectionProject\bin\Debug\net9.0\TheObjectofYourAffectionProject.dll
+D:\csharpintermed\TheObjectofYourAffectionProject\bin\Debug\net9.0\TheObjectofYourAffectionProject.pdb
+D:\csharpintermed\TheObjectofYourAffectionProject\obj\Debug\net9.0\TheObjectofYourAffectionProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpintermed\TheObjectofYourAffectionProject\obj\Debug\net9.0\TheObjectofYourAffectionProject.AssemblyInfoInputs.cache
+D:\csharpintermed\TheObjectofYourAffectionProject\obj\Debug\net9.0\TheObjectofYourAffectionProject.AssemblyInfo.cs
+D:\csharpintermed\TheObjectofYourAffectionProject\obj\Debug\net9.0\TheObjectofYourAffectionProject.csproj.CoreCompileInputs.cache
+D:\csharpintermed\TheObjectofYourAffectionProject\obj\Debug\net9.0\TheObjectofYourAffectionProject.sourcelink.json
+D:\csharpintermed\TheObjectofYourAffectionProject\obj\Debug\net9.0\TheObjectofYourAffectionProject.dll
+D:\csharpintermed\TheObjectofYourAffectionProject\obj\Debug\net9.0\refint\TheObjectofYourAffectionProject.dll
+D:\csharpintermed\TheObjectofYourAffectionProject\obj\Debug\net9.0\TheObjectofYourAffectionProject.pdb
+D:\csharpintermed\TheObjectofYourAffectionProject\obj\Debug\net9.0\TheObjectofYourAffectionProject.genruntimeconfig.cache
+D:\csharpintermed\TheObjectofYourAffectionProject\obj\Debug\net9.0\ref\TheObjectofYourAffectionProject.dll
