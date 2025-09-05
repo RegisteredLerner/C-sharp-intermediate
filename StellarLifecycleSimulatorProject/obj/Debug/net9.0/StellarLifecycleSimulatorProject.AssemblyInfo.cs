@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StellarLifecycleSimulatorProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ad01371602cdd4f92af8206b1ad0f8bdfd21b48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad69229cdb2a7d36c460b298189513b99afc9295")]
 [assembly: System.Reflection.AssemblyProductAttribute("StellarLifecycleSimulatorProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StellarLifecycleSimulatorProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
