@@ -1,0 +1,15 @@
+D:\csharpintermed\BibliographicalInheritanceProject\bin\Debug\net9.0\BibliographicalInheritanceProject.exe
+D:\csharpintermed\BibliographicalInheritanceProject\bin\Debug\net9.0\BibliographicalInheritanceProject.deps.json
+D:\csharpintermed\BibliographicalInheritanceProject\bin\Debug\net9.0\BibliographicalInheritanceProject.runtimeconfig.json
+D:\csharpintermed\BibliographicalInheritanceProject\bin\Debug\net9.0\BibliographicalInheritanceProject.dll
+D:\csharpintermed\BibliographicalInheritanceProject\bin\Debug\net9.0\BibliographicalInheritanceProject.pdb
+D:\csharpintermed\BibliographicalInheritanceProject\obj\Debug\net9.0\BibliographicalInheritanceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpintermed\BibliographicalInheritanceProject\obj\Debug\net9.0\BibliographicalInheritanceProject.AssemblyInfoInputs.cache
+D:\csharpintermed\BibliographicalInheritanceProject\obj\Debug\net9.0\BibliographicalInheritanceProject.AssemblyInfo.cs
+D:\csharpintermed\BibliographicalInheritanceProject\obj\Debug\net9.0\BibliographicalInheritanceProject.csproj.CoreCompileInputs.cache
+D:\csharpintermed\BibliographicalInheritanceProject\obj\Debug\net9.0\BibliographicalInheritanceProject.sourcelink.json
+D:\csharpintermed\BibliographicalInheritanceProject\obj\Debug\net9.0\BibliographicalInheritanceProject.dll
+D:\csharpintermed\BibliographicalInheritanceProject\obj\Debug\net9.0\refint\BibliographicalInheritanceProject.dll
+D:\csharpintermed\BibliographicalInheritanceProject\obj\Debug\net9.0\BibliographicalInheritanceProject.pdb
+D:\csharpintermed\BibliographicalInheritanceProject\obj\Debug\net9.0\BibliographicalInheritanceProject.genruntimeconfig.cache
+D:\csharpintermed\BibliographicalInheritanceProject\obj\Debug\net9.0\ref\BibliographicalInheritanceProject.dll
