@@ -1,0 +1,15 @@
+D:\csharpintermed\CorporatePolymorphismProject\obj\Debug\net9.0\CorporatePolymorphismProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpintermed\CorporatePolymorphismProject\obj\Debug\net9.0\CorporatePolymorphismProject.AssemblyInfoInputs.cache
+D:\csharpintermed\CorporatePolymorphismProject\obj\Debug\net9.0\CorporatePolymorphismProject.AssemblyInfo.cs
+D:\csharpintermed\CorporatePolymorphismProject\obj\Debug\net9.0\CorporatePolymorphismProject.csproj.CoreCompileInputs.cache
+D:\csharpintermed\CorporatePolymorphismProject\obj\Debug\net9.0\CorporatePolymorphismProject.sourcelink.json
+D:\csharpintermed\CorporatePolymorphismProject\bin\Debug\net9.0\CorporatePolymorphismProject.exe
+D:\csharpintermed\CorporatePolymorphismProject\bin\Debug\net9.0\CorporatePolymorphismProject.deps.json
+D:\csharpintermed\CorporatePolymorphismProject\bin\Debug\net9.0\CorporatePolymorphismProject.runtimeconfig.json
+D:\csharpintermed\CorporatePolymorphismProject\bin\Debug\net9.0\CorporatePolymorphismProject.dll
+D:\csharpintermed\CorporatePolymorphismProject\bin\Debug\net9.0\CorporatePolymorphismProject.pdb
+D:\csharpintermed\CorporatePolymorphismProject\obj\Debug\net9.0\CorporatePolymorphismProject.dll
+D:\csharpintermed\CorporatePolymorphismProject\obj\Debug\net9.0\refint\CorporatePolymorphismProject.dll
+D:\csharpintermed\CorporatePolymorphismProject\obj\Debug\net9.0\CorporatePolymorphismProject.pdb
+D:\csharpintermed\CorporatePolymorphismProject\obj\Debug\net9.0\CorporatePolymorphismProject.genruntimeconfig.cache
+D:\csharpintermed\CorporatePolymorphismProject\obj\Debug\net9.0\ref\CorporatePolymorphismProject.dll
