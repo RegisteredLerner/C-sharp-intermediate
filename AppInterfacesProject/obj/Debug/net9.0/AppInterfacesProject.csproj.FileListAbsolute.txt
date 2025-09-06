@@ -1,0 +1,15 @@
+D:\csharpintermed\AppInterfacesProject\bin\Debug\net9.0\AppInterfacesProject.exe
+D:\csharpintermed\AppInterfacesProject\bin\Debug\net9.0\AppInterfacesProject.deps.json
+D:\csharpintermed\AppInterfacesProject\bin\Debug\net9.0\AppInterfacesProject.runtimeconfig.json
+D:\csharpintermed\AppInterfacesProject\bin\Debug\net9.0\AppInterfacesProject.dll
+D:\csharpintermed\AppInterfacesProject\bin\Debug\net9.0\AppInterfacesProject.pdb
+D:\csharpintermed\AppInterfacesProject\obj\Debug\net9.0\AppInterfacesProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpintermed\AppInterfacesProject\obj\Debug\net9.0\AppInterfacesProject.AssemblyInfoInputs.cache
+D:\csharpintermed\AppInterfacesProject\obj\Debug\net9.0\AppInterfacesProject.AssemblyInfo.cs
+D:\csharpintermed\AppInterfacesProject\obj\Debug\net9.0\AppInterfacesProject.csproj.CoreCompileInputs.cache
+D:\csharpintermed\AppInterfacesProject\obj\Debug\net9.0\AppInterfacesProject.sourcelink.json
+D:\csharpintermed\AppInterfacesProject\obj\Debug\net9.0\AppInterfacesProject.dll
+D:\csharpintermed\AppInterfacesProject\obj\Debug\net9.0\refint\AppInterfacesProject.dll
+D:\csharpintermed\AppInterfacesProject\obj\Debug\net9.0\AppInterfacesProject.pdb
+D:\csharpintermed\AppInterfacesProject\obj\Debug\net9.0\AppInterfacesProject.genruntimeconfig.cache
+D:\csharpintermed\AppInterfacesProject\obj\Debug\net9.0\ref\AppInterfacesProject.dll
