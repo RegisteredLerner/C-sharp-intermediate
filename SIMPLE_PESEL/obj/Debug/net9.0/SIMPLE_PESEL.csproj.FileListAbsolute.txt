@@ -1,0 +1,15 @@
+D:\csharpintermed\SIMPLE_PESEL\bin\Debug\net9.0\SIMPLE_PESEL.exe
+D:\csharpintermed\SIMPLE_PESEL\bin\Debug\net9.0\SIMPLE_PESEL.deps.json
+D:\csharpintermed\SIMPLE_PESEL\bin\Debug\net9.0\SIMPLE_PESEL.runtimeconfig.json
+D:\csharpintermed\SIMPLE_PESEL\bin\Debug\net9.0\SIMPLE_PESEL.dll
+D:\csharpintermed\SIMPLE_PESEL\bin\Debug\net9.0\SIMPLE_PESEL.pdb
+D:\csharpintermed\SIMPLE_PESEL\obj\Debug\net9.0\SIMPLE_PESEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpintermed\SIMPLE_PESEL\obj\Debug\net9.0\SIMPLE_PESEL.AssemblyInfoInputs.cache
+D:\csharpintermed\SIMPLE_PESEL\obj\Debug\net9.0\SIMPLE_PESEL.AssemblyInfo.cs
+D:\csharpintermed\SIMPLE_PESEL\obj\Debug\net9.0\SIMPLE_PESEL.csproj.CoreCompileInputs.cache
+D:\csharpintermed\SIMPLE_PESEL\obj\Debug\net9.0\SIMPLE_PESEL.sourcelink.json
+D:\csharpintermed\SIMPLE_PESEL\obj\Debug\net9.0\SIMPLE_PESEL.dll
+D:\csharpintermed\SIMPLE_PESEL\obj\Debug\net9.0\refint\SIMPLE_PESEL.dll
+D:\csharpintermed\SIMPLE_PESEL\obj\Debug\net9.0\SIMPLE_PESEL.pdb
+D:\csharpintermed\SIMPLE_PESEL\obj\Debug\net9.0\SIMPLE_PESEL.genruntimeconfig.cache
+D:\csharpintermed\SIMPLE_PESEL\obj\Debug\net9.0\ref\SIMPLE_PESEL.dll
