@@ -1,0 +1,15 @@
+D:\csharpintermed\EscapeRoomProject\bin\Debug\net9.0\EscapeRoomProject.exe
+D:\csharpintermed\EscapeRoomProject\bin\Debug\net9.0\EscapeRoomProject.deps.json
+D:\csharpintermed\EscapeRoomProject\bin\Debug\net9.0\EscapeRoomProject.runtimeconfig.json
+D:\csharpintermed\EscapeRoomProject\bin\Debug\net9.0\EscapeRoomProject.dll
+D:\csharpintermed\EscapeRoomProject\bin\Debug\net9.0\EscapeRoomProject.pdb
+D:\csharpintermed\EscapeRoomProject\obj\Debug\net9.0\EscapeRoomProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpintermed\EscapeRoomProject\obj\Debug\net9.0\EscapeRoomProject.AssemblyInfoInputs.cache
+D:\csharpintermed\EscapeRoomProject\obj\Debug\net9.0\EscapeRoomProject.AssemblyInfo.cs
+D:\csharpintermed\EscapeRoomProject\obj\Debug\net9.0\EscapeRoomProject.csproj.CoreCompileInputs.cache
+D:\csharpintermed\EscapeRoomProject\obj\Debug\net9.0\EscapeRoomProject.sourcelink.json
+D:\csharpintermed\EscapeRoomProject\obj\Debug\net9.0\EscapeRoomProject.dll
+D:\csharpintermed\EscapeRoomProject\obj\Debug\net9.0\refint\EscapeRoomProject.dll
+D:\csharpintermed\EscapeRoomProject\obj\Debug\net9.0\EscapeRoomProject.pdb
+D:\csharpintermed\EscapeRoomProject\obj\Debug\net9.0\EscapeRoomProject.genruntimeconfig.cache
+D:\csharpintermed\EscapeRoomProject\obj\Debug\net9.0\ref\EscapeRoomProject.dll
