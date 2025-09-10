@@ -1,0 +1,15 @@
+D:\csharpintermed\OfficeInventoryManagementSystem\bin\Debug\net9.0\OfficeInventoryManagementSystem.exe
+D:\csharpintermed\OfficeInventoryManagementSystem\bin\Debug\net9.0\OfficeInventoryManagementSystem.deps.json
+D:\csharpintermed\OfficeInventoryManagementSystem\bin\Debug\net9.0\OfficeInventoryManagementSystem.runtimeconfig.json
+D:\csharpintermed\OfficeInventoryManagementSystem\bin\Debug\net9.0\OfficeInventoryManagementSystem.dll
+D:\csharpintermed\OfficeInventoryManagementSystem\bin\Debug\net9.0\OfficeInventoryManagementSystem.pdb
+D:\csharpintermed\OfficeInventoryManagementSystem\obj\Debug\net9.0\OfficeInventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpintermed\OfficeInventoryManagementSystem\obj\Debug\net9.0\OfficeInventoryManagementSystem.AssemblyInfoInputs.cache
+D:\csharpintermed\OfficeInventoryManagementSystem\obj\Debug\net9.0\OfficeInventoryManagementSystem.AssemblyInfo.cs
+D:\csharpintermed\OfficeInventoryManagementSystem\obj\Debug\net9.0\OfficeInventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\csharpintermed\OfficeInventoryManagementSystem\obj\Debug\net9.0\OfficeInventoryManagementSystem.sourcelink.json
+D:\csharpintermed\OfficeInventoryManagementSystem\obj\Debug\net9.0\OfficeInventoryManagementSystem.dll
+D:\csharpintermed\OfficeInventoryManagementSystem\obj\Debug\net9.0\refint\OfficeInventoryManagementSystem.dll
+D:\csharpintermed\OfficeInventoryManagementSystem\obj\Debug\net9.0\OfficeInventoryManagementSystem.pdb
+D:\csharpintermed\OfficeInventoryManagementSystem\obj\Debug\net9.0\OfficeInventoryManagementSystem.genruntimeconfig.cache
+D:\csharpintermed\OfficeInventoryManagementSystem\obj\Debug\net9.0\ref\OfficeInventoryManagementSystem.dll
