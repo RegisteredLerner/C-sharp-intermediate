@@ -1,0 +1,15 @@
+D:\csharpintermed\CyberLibraryManagmentSystem\bin\Debug\net9.0\CyberLibraryManagmentSystem.exe
+D:\csharpintermed\CyberLibraryManagmentSystem\bin\Debug\net9.0\CyberLibraryManagmentSystem.deps.json
+D:\csharpintermed\CyberLibraryManagmentSystem\bin\Debug\net9.0\CyberLibraryManagmentSystem.runtimeconfig.json
+D:\csharpintermed\CyberLibraryManagmentSystem\bin\Debug\net9.0\CyberLibraryManagmentSystem.dll
+D:\csharpintermed\CyberLibraryManagmentSystem\bin\Debug\net9.0\CyberLibraryManagmentSystem.pdb
+D:\csharpintermed\CyberLibraryManagmentSystem\obj\Debug\net9.0\CyberLibraryManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpintermed\CyberLibraryManagmentSystem\obj\Debug\net9.0\CyberLibraryManagmentSystem.AssemblyInfoInputs.cache
+D:\csharpintermed\CyberLibraryManagmentSystem\obj\Debug\net9.0\CyberLibraryManagmentSystem.AssemblyInfo.cs
+D:\csharpintermed\CyberLibraryManagmentSystem\obj\Debug\net9.0\CyberLibraryManagmentSystem.csproj.CoreCompileInputs.cache
+D:\csharpintermed\CyberLibraryManagmentSystem\obj\Debug\net9.0\CyberLibraryManagmentSystem.sourcelink.json
+D:\csharpintermed\CyberLibraryManagmentSystem\obj\Debug\net9.0\CyberLibraryManagmentSystem.dll
+D:\csharpintermed\CyberLibraryManagmentSystem\obj\Debug\net9.0\refint\CyberLibraryManagmentSystem.dll
+D:\csharpintermed\CyberLibraryManagmentSystem\obj\Debug\net9.0\CyberLibraryManagmentSystem.pdb
+D:\csharpintermed\CyberLibraryManagmentSystem\obj\Debug\net9.0\CyberLibraryManagmentSystem.genruntimeconfig.cache
+D:\csharpintermed\CyberLibraryManagmentSystem\obj\Debug\net9.0\ref\CyberLibraryManagmentSystem.dll
